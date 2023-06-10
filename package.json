@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/FelipeBattistotti/SiteExample3#readme",
   "dependencies": {
-    "gatsby": "^2.22.12",
+    "gatsby": "^4.25.7",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   }
